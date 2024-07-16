@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NadhaIrshad
+- 👋 Hi, I’m @NadhaIrshad, a 2nd year Electronic and Telecommunication Engineering Undergraduate @ University of Moratuwa
 - 👀 I’m interested in Electronics, Embedded systems, IOT and Machine Learning 
 - 💻 I'm currently working on a variety of projects that combine my interests in AI, electronics, and robotics.
 
