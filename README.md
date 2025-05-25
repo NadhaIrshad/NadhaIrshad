@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Nadha Irshad!
 
 ### 🎓 2nd Year Electronic & Telecommunication Engineering Undergraduate  
-**University of Moratuwa**
+** @ University of Moratuwa**
 
 ---
 
