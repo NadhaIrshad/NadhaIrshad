@@ -33,7 +33,7 @@ Currently exploring exciting projects that blend my passions for:
 ---
 
 ### 📫 Let’s Connect  
-- [LinkedIn]([http://www.linkedin.com/in/nadha-irshad-6aa525294])   
+- [LinkedIn](http://www.linkedin.com/in/nadha-irshad-6aa525294)   
 
 ---
 
