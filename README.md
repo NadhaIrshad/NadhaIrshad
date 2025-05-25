@@ -38,5 +38,10 @@ Currently exploring exciting projects that blend my passions for:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NadhaIrshad&theme=radical)
 
 ### 📫 Let’s Connect  
-- [LinkedIn](http://www.linkedin.com/in/nadha-irshad-6aa525294)   
+- [LinkedIn](http://www.linkedin.com/in/nadha-irshad-6aa525294)
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-NadhaIrshad-blue?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/nadha-irshad-6aa525294)
+
+[🔗 LinkedIn Profile](http://www.linkedin.com/in/nadha-irshad-6aa525294)
+
 
